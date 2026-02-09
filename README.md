@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Nazmul Hasan 👋
 
-<!--
-**Nazmul1211/Nazmul1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Full-Stack Web Developer | Product Builder
 
-Here are some ideas to get you started:
+I’m a software engineer with hands-on experience building real-world web products used by thousands of users.
+I started with CMS development (WordPress) in 2020, then transitioned into modern full-stack development
+to deeply understand how scalable web systems work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Work With
+- Frontend: React.js, Next.js, Tailwind CSS
+- Backend: Node.js, Express, REST APIs
+- Databases: PostgreSQL, MongoDB, Firebase
+- Cloud & Tools: Vercel, Cloudflare R2, Neon, Git, Docker
+- CMS: WordPress (since 2020)
+
+### 🧠 What I Focus On
+- Performance & SEO-driven applications
+- Serverless & cost-efficient architectures
+- Clean UI, usability, and user-centric experiences
+- Turning ideas into production-ready products
+
+### 📌 Featured Projects
+- TuitionPort – Full-stack marketplace for tutors & students (30k+ users)
+- GPA Calculator – SEO-optimized SaaS ranked #1 on Google
+- Flowditor – AI automation tool for content publishing
+
+📫 Reach me at: mnhs1211@email.com  
+🔗 LinkedIn: linkedin.com/in/mn-hasan
