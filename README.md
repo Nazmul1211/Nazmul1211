@@ -25,5 +25,5 @@ to deeply understand how scalable web systems work.
 - Flowditor – AI automation tool for content publishing
 
 📫 Reach me at: mnhs1211@email.com  
-🔗 LinkedIn: https://linkedin.com/in/mn-hasan
-🔗 Portfolio: https://nazmul-hasan-gamma.vercel.app/
+🔗 LinkedIn: [Link](https://linkedin.com/in/mn-hasan)
+🔗 Portfolio: [Link](https://nazmul-hasan-nhs.vercel.app/)
