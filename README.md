@@ -3,7 +3,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Nazmul1211.png" alt="Nazmul Hasan" width="120" height="120" style="border-radius: 50%;" />
   <h1>Hi 👋, I'm Nazmul Hasan</h1>
   <p><strong>Software Engineer · Full-Stack Web Developer · Product Builder</strong></p>
   <p>
@@ -44,7 +43,7 @@ I'm a software engineer and full-stack web developer who builds useful, scalable
 
 ### Deployment & Cloud
 
-[![Deployment and cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,neon,docker)](https://github.com/Nazmul1211)
+[![Deployment and cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker)](https://github.com/Nazmul1211)
 
 ### Developer Tools & Workflow
 
@@ -66,17 +65,6 @@ I'm a software engineer and full-stack web developer who builds useful, scalable
 - **GPA Calculator** — SEO-focused SaaS product that ranked #1 on Google, with **10k+ visitors**.
 - **TuitionPort** — Full-stack marketplace for tutors and students, serving 30k+ users.
 - **Flowditor** — AI automation tool for content publishing.
-
-## 📊 GitHub Statistics
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Nazmul1211&show_icons=true&theme=swift&hide_border=true" alt="Nazmul's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul1211&layout=compact&theme=swift&hide_border=true" alt="Nazmul's top languages" /></td>
-  </tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=Nazmul1211&theme=swift&hide_border=true" alt="Nazmul's GitHub streak" />
 
 ---
 
