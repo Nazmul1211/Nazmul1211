@@ -19,7 +19,7 @@ I'm a software engineer and full-stack web developer who builds useful, scalable
 - 🌱 I’m strengthening my backend workflow with **Prisma** and modern database tooling.
 - ⚡ I’m building and improving production-ready, SEO-focused web products.
 - 💬 Ask me about full-stack web development, CMS work, REST APIs, and shipping products.
-- 📍 Based in **Dhaka, Bangladesh**.
+- 📍 Based in **Chittagong, Bangladesh**.
 - 🌐 Visit my [portfolio](https://nazmul-hasan-dev.vercel.app/) or connect on [LinkedIn](https://linkedin.com/in/mn-hasan).
 - 📫 Reach me at [mnhs1211@email.com](mailto:mnhs1211@email.com).
 
