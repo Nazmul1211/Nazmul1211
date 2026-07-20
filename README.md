@@ -43,7 +43,10 @@ I'm a software engineer and full-stack web developer who builds useful, scalable
 
 ### Deployment & Cloud
 
-[![Deployment and cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker)](https://github.com/Nazmul1211)
+<p>
+  <a href="https://github.com/Nazmul1211"><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,docker" alt="Vercel, Netlify, Cloudflare, and Docker" /></a>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48" height="48" />
+</p>
 
 ### Developer Tools & Workflow
 
@@ -54,7 +57,6 @@ I'm a software engineer and full-stack web developer who builds useful, scalable
 <p>
   <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
